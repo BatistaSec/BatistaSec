@@ -1,11 +1,11 @@
 # João Batista 🇧🇷  
-💻 Desenvolvedor FullStack | ☁️ Cloud  | 🛡 AppSec
+💻 Desenvolvedor FullStack | 🤖 IA|ML | 🛡 AppSec
 
 ---
 
 ## 🚀 Sobre mim
 🎓 Estudante de Ciência da Computação  
-💻 Desenvolvedor **FullStack & Cloud** segurança e boas práticas  
+💻 Desenvolvedor **FullStack & AI/ML* segurança e boas práticas  
 
 ---
 
