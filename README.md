@@ -54,6 +54,10 @@ Plataforma distribuída para **telemetria e gestão de corridas de Fórmula 1**,
 - **Predictive AI Engine (Python + FastAPI)**: modelos de machine learning para prever pit stops e estratégias de corrida.  
 - **Infraestrutura (Docker + AWS + GitHub Actions)**: CI/CD, deploy em cloud e mensageria distribuída.  
 
+⚠️ **Status:** Em construção 🚧  
+Este projeto está em desenvolvimento ativo. Novas funcionalidades e melhorias serão adicionadas nas próximas semanas.
+
+
 ---
 
 
