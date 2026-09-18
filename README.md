@@ -45,6 +45,18 @@ API REST para gerenciamento de usuários, com foco em **segurança**, **boas pr�
 ### 🔄 [Order Messaging System](https://github.com/BatistaSec/Order-messaging-system)
 Sistema distribuído baseado em microserviços, comunicação assíncrona via RabbitMQ, autenticação JWT e arquitetura orientada a eventos.
 
+### 🏎️ [PitStopEngine Manager](https://github.com/BatistaSec/PitStopEngineManager)
+Plataforma distribuída para **telemetria e gestão de corridas de Fórmula 1**, integrando:
+
+- **Frontend (Next.js + React + TypeScript)**: dashboards com classificação ao vivo, gráficos de voltas e gerenciamento de pilotos/equipes.  
+- **Core Championship (Java + Spring Boot + PostgreSQL)**: regras de negócio, calendário oficial e pontuação da temporada.  
+- **Live Telemetry (Node.js + NestJS + MySQL)**: streaming de dados em tempo real via WebSockets e RabbitMQ.  
+- **Predictive AI Engine (Python + FastAPI)**: modelos de machine learning para prever pit stops e estratégias de corrida.  
+- **Infraestrutura (Docker + AWS + GitHub Actions)**: CI/CD, deploy em cloud e mensageria distribuída.  
+
+---
+
+
 ---
 
 ## 📊 Estatísticas
