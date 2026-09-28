@@ -45,7 +45,8 @@ API REST para gerenciamento de usuários, com foco em **segurança**, **boas pr�
 ### 🔄 [Order Messaging System](https://github.com/BatistaSec/Order-messaging-system)
 Sistema distribuído baseado em microserviços, comunicação assíncrona via RabbitMQ, autenticação JWT e arquitetura orientada a eventos.
 
-
+### 💹 [Plataforma de Custódia de Ativos](https://github.com/BatistaSec/Plataforma-de-Cust-dia-Ativos)
+Projeto em desenvolvimento para **custódia e gestão de ativos digitais**, com foco em **segurança**, **escalabilidade** e **compliance**.
 
 
 
